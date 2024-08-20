@@ -1,11 +1,11 @@
 {
-  "name": "breakout-game",
+  "name": "@games/breakout-game",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "dev": "vite", 
-    "build": "vite build", 
-    "preview": "vite preview" 
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "private": true,
   "workspaces": [
@@ -13,5 +13,6 @@
   ],
   "devDependencies": {
     "vite": "^5.4.2"
-  }
+  },
+  "repository": "https://github.com/maisasb/javascript-games"
 }
