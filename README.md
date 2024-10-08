@@ -1,6 +1,8 @@
 # Games
 
-How to publish package:
+Javascript games repository
+
+## How to publish package:
 
 - Make sure you update package.json
 
