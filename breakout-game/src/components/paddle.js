@@ -7,7 +7,7 @@ export const drawPaddle = (
 ) => {
   ctx.beginPath();
   ctx.rect(paddleX, canvasHeight - paddleHeight, paddleWidth, paddleHeight);
-  ctx.fillStyle = "#0095DD";
+  ctx.fillStyle = "#88d8b0";
   ctx.fill();
   ctx.closePath();
 };

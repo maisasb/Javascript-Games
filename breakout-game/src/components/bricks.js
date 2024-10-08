@@ -28,7 +28,7 @@ export const drawBricks = (ctx, bricks) => {
         bricks[c][r].y = brickY;
         ctx.beginPath();
         ctx.rect(brickX, brickY, brickWidth, brickHeight);
-        ctx.fillStyle = "#0095DD";
+        ctx.fillStyle = "#96ceb4";
         ctx.fill();
         ctx.closePath();
       }
